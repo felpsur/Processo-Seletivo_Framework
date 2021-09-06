@@ -1,0 +1,47 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background: url(index.jpg);
+    background-size: 100%;
+;
+
+}
+
+table{
+    padding-top: 80px;
+}
+
+a {
+    font-size: 50px;
+    color: gold;
+    text-decoration: none;
+}
+
+#post {
+    padding: 900px 170px;
+}
+
+#alb {
+    padding: 900px 220px;
+}
+
+#to {
+    padding: 900px 195px;
+}
+
+#post:hover {
+    background-image: linear-gradient(to bottom, #EE3B3B, black);
+    opacity:0.6;
+    color: white;
+}
+
+#alb:hover {
+    background-image: linear-gradient(to bottom, #DAA520, black);
+    opacity:0.6;
+    color: white;
+}
+
+#to:hover {
+    background-image: linear-gradient(to bottom, #54FF9F, black);
+    opacity:0.6;
+    color: white;
+}
